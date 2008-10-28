@@ -1,6 +1,6 @@
 bigreqsproto
 ------------------------------------------
-Xorg XBigReq protocol headers
+X.Org XBigReq protocol headers
 
 Build requirements:
   cygwin-1.5.18-1
